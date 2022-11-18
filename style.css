@@ -1,0 +1,61 @@
+header{
+    color:white;
+    margin: 30px;
+    text-decoration: underline;
+    
+    
+}
+ol{
+    color: white;
+
+}
+ul{
+    color: white;
+    align-items: center;
+
+}
+body{
+    margin: 0;
+    padding: 0%;
+    width: 100%;
+    height: 100vh;
+}
+.acceuil{
+    width: 100%;
+    height: 100vh;
+    background: url(https://comindesign.fr/wp-content/uploads/2018/08/website-design-slider-background-stockton-28618_1080x675.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+
+}
+section{
+    align-items: center;
+    display: flex;
+}
+a{
+    color: white;
+    justify-content:space-between;    
+    width: 12%;
+    padding: 50px;
+    box-sizing: border-box;
+
+}
+img.alignleft{
+    float: left;
+    margin: 0 15px 0 0;
+}
+img.alignright{
+    float: right;
+    margin: 0 0 0 15px;
+}
+p.alignleft{
+    text-align: left;
+}
+p.alignright{
+    text-align: righ;
+}
+
+
+
+
+  
